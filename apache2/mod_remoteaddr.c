@@ -16,7 +16,7 @@
 
 
 /*
- * @file: mode_remoteaddr.c
+ * @file: mod_remoteaddr.c
  * @brief: REMOTE_ADDR environment variable replacement module
  * @author: YoungJoo.Kim <http://superlinuxer.com>
  * @version: $Revision:
