@@ -99,6 +99,7 @@ IntVarHook        {On|Off}
 ````
 
 The IntVarHook directive sets the enable or disable of main hook.
+
 1. REMOTE_ADDR is changed to HookVarName's value.
 2. Access_log is changed to HookVarName's value.
 
@@ -110,6 +111,7 @@ ScoreVarHook        {On|Off}
 ````
 
 The ScoreVarHook directive sets the enable or disable of scoreboard(server-status) hook.
+
 1. Scoreboard(server-status)'s client(ip address) is changed to HookVarName's value.
 
 ## Author
