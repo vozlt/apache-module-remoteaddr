@@ -1,8 +1,8 @@
 # @file: Makefile
 # @brief:
-# @author: YoungJoo.Kim <http://superlinuxer.com>
-# @version: $Revision:
-# @date: $Date:
+# @author: YoungJoo.Kim <vozlt@vozlt.com>
+# @version:
+# @date:
 
 APXS=apxs
 EXTRA_CFLAGS=

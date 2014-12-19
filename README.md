@@ -115,4 +115,4 @@ The ScoreVarHook directive sets the enable or disable of scoreboard(server-statu
 1. Scoreboard(server-status)'s client(ip address) is changed to HookVarName's value.
 
 ## Author
-YoungJoo.Kim <[http://superlinuxer.com](http://superlinuxer.com)>
+YoungJoo.Kim [<vozlt@vozlt.com>]
