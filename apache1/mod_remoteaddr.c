@@ -18,7 +18,7 @@
 /*
  * @file: mod_remoteaddr.c
  * @brief: REMOTE_ADDR Environment Variable Replacement Module
- * @author: YoungJoo.Kim <vozlt@vozlt.com>
+ * @author: YoungJoo.Kim <vozltx@gmail.com>
  * @version:
  * @date:
  *
